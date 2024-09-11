@@ -23,7 +23,6 @@ PyYAML
 pyyaml
 receptorctl
 requests
-requests
 requests-ntlm
 requests-oauthlib
 setuptools
