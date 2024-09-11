@@ -5,6 +5,7 @@ cloud-init
 cryptography
 docker
 git+https://github.com/ansible/ansible-sign
+git+https://github.com/vmware/ansible-for-nsxt
 molecule-vmware
 ncclient
 omsdk
