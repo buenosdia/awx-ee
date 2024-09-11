@@ -12,6 +12,7 @@ PyYAML
 pykerberos
 pyOpenSSL
 pypsrp[kerberos,credssp]
+pyvmomi
 pywinrm[kerberos,credssp]
 toml
 pexpect>=4.5
@@ -19,3 +20,13 @@ python-daemon
 pyyaml
 six
 receptorctl
+zabbix-api
+psycopg2-binary
+cryptography
+openshift
+requests-oauthlib
+requests
+docker
+urllib3
+aiohttp
+PyMySQL
