@@ -13,6 +13,8 @@ openssh-clients
 openssl-devel [platform:rpm compile]
 podman-remote [platform:rpm]
 python3.12-devel [platform:rpm compile]
+python3-devel 
+krb5-devel
 rsync [platform:rpm]
 sshpass [platform:rpm]
 subversion [platform:dpkg]
