@@ -1,25 +1,10 @@
----
-collections:
-  - name: community.general
+  - name: amazon.aws
+  - name: ansible.posix
+  - name: ansible.utils
+  - name: ansible.windows
   - name: awx.awx
   - name: azure.azcollection
-    version: ">=2.1.0"
-  - name: amazon.aws
-  - name: theforeman.foreman
-  - name: google.cloud
-  - name: openstack.cloud
-  - name: community.vmware
-  - name: ovirt.ovirt
-  - name: kubernetes.core
-  - name: ansible.posix
-  - name: ansible.windows
-  - name: redhatinsights.insights
-  - name: kubevirt.core
-  - name: f5networks.f5_bigip
-  - name: f5networks.f5os
-  - name: f5networks.next
-  - name: microsoft.ad
-  - name: microsoft.sql
+  - name: chocolatey.chocolatey
   - name: cisco.aci
   - name: cisco.asa
   - name: cisco.catalystwan
@@ -44,25 +29,42 @@ collections:
   - name: cisco.sdwan_deployment
   - name: cisco.secure_workload
   - name: cisco.ucs
-  - name: vmware.vmware_rest
   - name: cloud.terraform
-  - name: azure.azcollection
-  - name: amazon.aws
   - name: community.aws
-  - name: kubernetes.core
-  - name: community.vagrant
+  - name: community.mysql
   - name: community.crypto
-  - name: community.postgresql
   - name: community.dns
-  - name: netbox.netbox
   - name: community.docker
-  - name: purestorage.flasharray
-  - name: purestorage.flashblade
+  - name: community.general
+  - name: community.postgresql
+  - name: community.vagrant
+  - name: community.vmware
+  - name: community.windows
   - name: community.zabbix
   - name: containers.podman
+  - name: crowdstrike.falcon
   - name: dellemc.enterprise_sonic
   - name: dellemc.openmanage
   - name: dellemc.os10
   - name: dellemc.os6
   - name: dellemc.os9
-  - name: chocolatey.chocolatey
+  - name: dynatrace.oneagent_deploy
+  - name: f5networks.f5_bigip
+  - name: f5networks.f5os
+  - name: f5networks.next
+  - name: git+https://github.com/vmware/ansible-for-nsxt
+  - name: google.cloud
+  - name: kubernetes.core
+  - name: kubevirt.core
+  - name: microsoft.ad
+  - name: microsoft.sql
+  - name: netapp.aws
+  - name: netapp.ontap
+  - name: netbox.netbox
+  - name: openstack.cloud
+  - name: ovirt.ovirt
+  - name: purestorage.flasharray
+  - name: purestorage.flashblade
+  - name: redhatinsights.insights
+  - name: theforeman.foreman
+  - name: vmware.vmware_rest
