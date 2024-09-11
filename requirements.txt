@@ -1,8 +1,6 @@
 requests
-ansible-builder
+
 certifi
-cryptography
-docker
 git+https://github.com/ansible/ansible-sign
 ncclient
 omsdk
@@ -28,4 +26,4 @@ pywinos
 pywinrm[kerberos,credssp]
 receptorctl
 toml
-zabbix-api
+urllib3
