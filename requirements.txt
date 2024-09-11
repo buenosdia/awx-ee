@@ -20,3 +20,5 @@ pyyaml
 six
 receptorctl
 omsdk
+lxml
+
