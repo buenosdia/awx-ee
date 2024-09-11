@@ -13,8 +13,6 @@ pyjwt
 pykerberos
 PyMySQL
 pynetbox
-pyOpenSSL
-pypsrp[kerberos,credssp]
 pyspnego
 python312-devel
 python-daemon
@@ -23,7 +21,12 @@ python-ldap
 pytz
 pyvmomi
 pywinos
+pyOpenSSL
+pypsrp[kerberos,credssp]
 pywinrm[kerberos,credssp]
-receptorctl
 toml
-urllib3
+pexpect>=4.5
+python-daemon
+pyyaml
+six
+receptorctl
