@@ -26,7 +26,6 @@ pytz
 pyvmomi
 pywinos
 pywinrm[kerberos,credssp]
-pyyaml
 receptorctl
 toml
 zabbix-api
