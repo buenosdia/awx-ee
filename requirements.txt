@@ -18,6 +18,7 @@ pynetbox
 pyOpenSSL
 pypsrp[kerberos,credssp]
 pyspnego
+python312-devel
 python-daemon
 python-ldap
 pyvmomi
