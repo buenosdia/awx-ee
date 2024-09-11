@@ -24,7 +24,6 @@ collections:
   - name: cisco.ise
   - name: cisco.meraki
   - name: cisco.mso
-  - name: cisco.nac_dc_vlan
   - name: cisco.nae
   - name: cisco.nd
   - name: cisco.nso
