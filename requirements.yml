@@ -63,6 +63,7 @@
   - name: git+https://github.com/vmware/ansible-for-nsxt
   - name: google.cloud
   - name: hpe.ilo
+  - name: hpe.oneview
   - name: infoblox.nios_modules
   - name: kubernetes.core
   - name: kubevirt.core
