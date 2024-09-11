@@ -1,7 +1,7 @@
-ansible-builder
 aiohttp
-cloud-init
+ansible-builder
 certifi
+cloud-init
 cryptography
 docker
 git+https://github.com/ansible/ansible-sign
@@ -24,12 +24,11 @@ python312-devel
 python-daemon
 python-ilorest-library
 python-ldap
+pytz
 pyvmomi
 pywinos
 pywinrm[kerberos,credssp]
-PyYAML
 pyyaml
-pytz
 receptorctl
 requests
 requests-ntlm
@@ -39,4 +38,3 @@ six
 toml
 urllib3
 zabbix-api
-
