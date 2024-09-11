@@ -1,5 +1,6 @@
 aiohttp
 cloud-init
+certifi
 cryptography
 docker
 git+https://github.com/ansible/ansible-sign
@@ -20,6 +21,7 @@ pypsrp[kerberos,credssp]
 pyspnego
 python312-devel
 python-daemon
+python-ilorest-library
 python-ldap
 pyvmomi
 pywinos
