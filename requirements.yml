@@ -6,6 +6,7 @@ collections:
   - name: ansible.posix
   - name: ansible.utils
   - name: ansible.windows
+  - name: ansible_cloud.share_ami
   - name: awx.awx
   - name: azure.azcollection
   - name: chocolatey.chocolatey
