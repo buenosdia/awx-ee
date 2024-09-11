@@ -1,3 +1,4 @@
+omsdk
 cloud-init
 requests
 requests-ntlm
