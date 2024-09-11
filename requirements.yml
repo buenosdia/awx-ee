@@ -63,7 +63,6 @@ collections:
   - name: f5networks.f5os
   - name: f5networks.next
   - name: f5networks.f5_modules
-  - name: git+https://github.com/vmware/ansible-for-nsxt
   - name: google.cloud
   - name: hpe.ilo
   - name: hpe.oneview
