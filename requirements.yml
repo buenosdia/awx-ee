@@ -50,7 +50,6 @@
   - name: community.zabbix
   - name: containers.podman
   - name: crowdstrike.falcon
-  - name: veeamhub.veeam
   - name: dellemc.enterprise_sonic
   - name: dellemc.openmanage
   - name: dellemc.os10
@@ -63,6 +62,8 @@
   - name: f5networks.f5_modules
   - name: git+https://github.com/vmware/ansible-for-nsxt
   - name: google.cloud
+  - name: hpe.ilo
+  - name: infoblox.nios_modules
   - name: kubernetes.core
   - name: kubevirt.core
   - name: microsoft.ad
@@ -77,4 +78,5 @@
   - name: purestorage.pure1
   - name: redhatinsights.insights
   - name: theforeman.foreman
+  - name: veeamhub.veeam
   - name: vmware.vmware_rest
