@@ -12,7 +12,6 @@ make [platform:rpm compile]
 openssh-clients
 openssl-devel [platform:rpm compile]
 podman-remote [platform:rpm]
-python3-devel 
 krb5-devel
 rsync [platform:rpm]
 sshpass [platform:rpm]
