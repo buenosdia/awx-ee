@@ -68,8 +68,6 @@ collections:
   - name: kubevirt.core
   - name: microsoft.ad
   - name: microsoft.sql
-  - name: netapp.aws
-  - name: netapp.ontap
   - name: netbox.netbox
   - name: openstack.cloud
   - name: ovirt.ovirt
