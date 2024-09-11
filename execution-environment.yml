@@ -25,7 +25,7 @@ dependencies:
   ansible_core:
       package_pip: ansible-core>=2.17.4,<2.18
 additional_build_files:
-  - src: files/ansible.cfg
+  - src: ansible.cfg
     dest: configs
 additional_build_steps:
   append_base:
