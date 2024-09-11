@@ -21,4 +21,4 @@ six
 receptorctl
 omsdk
 lxml
-
+python3-lxml
