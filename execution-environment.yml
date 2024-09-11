@@ -17,7 +17,7 @@ dependencies:
   ansible_runner:
       package_pip: ansible-runner
   python_interpreter:
-      package_system: python3.111
+      package_system: python3.11
       python_path: "/usr/bin/python3.11"
   python: requirements.txt
   system: bindep.txt
