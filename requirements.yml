@@ -30,7 +30,6 @@ collections:
   - name: cisco.nxos
   - name: cisco.sdwan
   - name: cisco.sdwan_deployment
-  - name: cisco.secure_workload
   - name: cisco.ucs
   - name: cloud.terraform
   - name: community.aws
