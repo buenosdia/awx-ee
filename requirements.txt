@@ -1,5 +1,5 @@
 requests
-
+git+https://github.com/ansible/ansible-builder.git@devel#egg=ansible-builder
 certifi
 git+https://github.com/ansible/ansible-sign
 ncclient
