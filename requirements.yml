@@ -1,4 +1,6 @@
   - name: amazon.aws
+  - name: ansible.builtin
+  - name: ansible.netcommon
   - name: ansible.posix
   - name: ansible.utils
   - name: ansible.windows
@@ -31,11 +33,16 @@
   - name: cisco.ucs
   - name: cloud.terraform
   - name: community.aws
+  - name: community.azure
   - name: community.mysql
   - name: community.crypto
   - name: community.dns
   - name: community.docker
   - name: community.general
+  - name: community.google
+  - name: community.hashi_vault
+  - name: community.kubernetes
+  - name: community.kubevirt
   - name: community.postgresql
   - name: community.vagrant
   - name: community.vmware
@@ -65,6 +72,7 @@
   - name: ovirt.ovirt
   - name: purestorage.flasharray
   - name: purestorage.flashblade
+  - name: purestorage.pure1
   - name: redhatinsights.insights
   - name: theforeman.foreman
   - name: vmware.vmware_rest
