@@ -1,7 +1,6 @@
 requests
 ansible-builder
 certifi
-cloud-init
 cryptography
 docker
 git+https://github.com/ansible/ansible-sign
