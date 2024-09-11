@@ -33,8 +33,6 @@ pywinrm[kerberos,credssp]
 pyyaml
 receptorctl
 requests
-requests-ntlm
-requests-oauthlib
 setuptools
 six
 toml
