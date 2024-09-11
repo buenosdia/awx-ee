@@ -50,6 +50,7 @@
   - name: community.zabbix
   - name: containers.podman
   - name: crowdstrike.falcon
+  - name: veeamhub.veeam
   - name: dellemc.enterprise_sonic
   - name: dellemc.openmanage
   - name: dellemc.os10
