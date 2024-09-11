@@ -3,7 +3,7 @@ version: 3
 images:
   base_image:
     name: quay.io/centos/centos:stream9
-options:
+# options:
   # container_init:
   #     package_pip: dumb-init>=1.2.5
   #     entrypoint: '["dumb-init"]'
