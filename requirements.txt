@@ -1,4 +1,7 @@
 requests
+python3-lxml
+libxslt-devel
+libxml2-devel
 git+https://github.com/ansible/ansible-builder.git@devel#egg=ansible-builder
 certifi
 git+https://github.com/ansible/ansible-sign
@@ -30,5 +33,3 @@ python-daemon
 pyyaml
 six
 receptorctl
-libxslt-devel
-libxml2-devel
