@@ -1,4 +1,4 @@
-aiohttp
+requests
 ansible-builder
 certifi
 cloud-init
