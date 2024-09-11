@@ -8,8 +8,6 @@ pyjwt
 pykerberos
 pynetbox
 pyspnego
-python3-devel
-
 python-ldap
 pytz
 pyvmomi
