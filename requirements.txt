@@ -36,5 +36,4 @@ requests-oauthlib
 setuptools
 six
 toml
-urllib3
 zabbix-api
