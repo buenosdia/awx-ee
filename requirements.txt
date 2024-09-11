@@ -5,7 +5,6 @@ cloud-init
 cryptography
 docker
 git+https://github.com/ansible/ansible-sign
-molecule-vmware
 ncclient
 omsdk
 openshift
