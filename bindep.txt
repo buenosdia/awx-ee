@@ -13,7 +13,7 @@ make [platform:rpm compile]
 openssh-clients
 openssl-devel [platform:rpm compile]
 podman-remote [platform:rpm]
-krb5-devel
+krb5-devel[platform:rpm]
 rsync [platform:rpm]
 sshpass [platform:rpm]
 subversion [platform:dpkg]
