@@ -16,3 +16,4 @@ toml
 python-daemon
 pyyaml
 omsdk
+gssapi
