@@ -7,6 +7,7 @@ git-core [platform:rpm]
 git-lfs [platform:rpm]
 krb5-devel [platform:rpm compile]
 krb5-workstation [platform:rpm]
+krb5-libs [platform:rpm]
 libcurl-devel [platform:rpm compile]
 make [platform:rpm compile]
 openssh-clients
