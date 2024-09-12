@@ -17,4 +17,3 @@ toml
 python-daemon
 pyyaml
 omsdk
-python3-lxml
