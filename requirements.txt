@@ -11,7 +11,7 @@ pyspnego
 pytz
 pyvmomi
 pypsrp[kerberos,credssp]
-pywinrm[kerberos,credssp]
+pywinrm
 toml
 python-daemon
 pyyaml
