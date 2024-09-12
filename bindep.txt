@@ -20,3 +20,4 @@ subversion [platform:dpkg]
 subversion [platform:rpm]
 unzip [platform:rpm]
 which
+git-core [platform:rpm]
