@@ -16,7 +16,5 @@ pywinrm[kerberos,credssp]
 toml
 python-daemon
 pyyaml
-six
 omsdk
-lxml
 python3-lxml
