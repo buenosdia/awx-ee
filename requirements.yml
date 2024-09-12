@@ -13,7 +13,6 @@ collections:
   - name: community.aws
   - name: community.azure
   - name: community.crypto
-  - name: community.dns
   - name: community.docker
   - name: community.hashi_vault
   - name: community.kubernetes
@@ -28,7 +27,6 @@ collections:
   - name: dellemc.os10
   - name: dellemc.os6
   - name: dellemc.os9
-  - name: dynatrace.oneagent_deploy
   - name: f5networks.f5_bigip
   - name: f5networks.f5os
   - name: f5networks.next
@@ -45,5 +43,4 @@ collections:
   - name: purestorage.pure1
   - name: redhatinsights.insights
   - name: theforeman.foreman
-  - name: veeamhub.veeam
   - name: vmware.vmware_rest
