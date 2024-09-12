@@ -8,7 +8,6 @@ pyjwt
 pykerberos
 pynetbox
 pyspnego
-python-ldap
 pytz
 pyvmomi
 pypsrp[kerberos,credssp]
