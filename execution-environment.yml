@@ -40,7 +40,7 @@ dependencies:
       - name: microsoft.ad
       - name: microsoft.sql
       - name: netbox.netbox
-       - name: purestorage.flasharray      
+      - name: purestorage.flasharray      
   system: |
     git-core [platform:rpm]
     python3.11-devel [platform:rpm compile]
