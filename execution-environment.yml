@@ -15,14 +15,23 @@ dependencies:
     ---
     collections:
       - name: amazon.aws
+      - name: ansible.netcommon
       - name: ansible.posix
+      - name: ansible.utils
       - name: ansible.windows
       - name: awx.awx
       - name: azure.azcollection
         version: ">=2.1.0"
       - name: chocolatey.chocolatey
+      - name: cisco.asa
+      - name: cisco.intersight
+      - name: cisco.ios
+      - name: cisco.ise
       - name: cisco.ucs
       - name: cloud.terraform
+      - name: community.crypto
+      - name: community.general
+      - name: community.hashi_vault
       - name: community.vmware
       - name: f5networks.f5_bigip
       - name: f5networks.f5os
@@ -35,6 +44,7 @@ dependencies:
       - name: nutanix.ncp
       - name: openstack.cloud
       - name: ovirt.ovirt
+      - name: paloaltonetworks.panos
       - name: purestorage.flasharray
       - name: redhatinsights.insights
       - name: theforeman.foreman
@@ -59,6 +69,7 @@ dependencies:
     openssl-devel [platform:rpm compile]
   python: |
     ansible-sign
+    hvac
     ncclient
     paramiko
     pykerberos
