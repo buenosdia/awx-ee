@@ -44,7 +44,6 @@ dependencies:
       - name: nutanix.ncp
       - name: openstack.cloud
       - name: ovirt.ovirt
-      - name: paloaltonetworks.panos
       - name: purestorage.flasharray
       - name: redhatinsights.insights
       - name: theforeman.foreman
